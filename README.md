@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi, I'm Raga Spandana! 👋
 
-<!--
-**ragaspandana/ragaspandana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE (AI & ML) Undergraduate
 
-Here are some ideas to get you started:
+I'm passionate about technology, software development, Artificial Intelligence, and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 About Me
+
+•⁠  ⁠🌱 Continuously learning and improving my technical skills.
+•⁠  ⁠💻 Interested in Python and SQL.
+•⁠  ⁠🔍 Interested in Software Quality and Accessibility.
+•⁠  ⁠🤖 Exploring Artificial Intelligence and Machine Learning.
+•⁠  ⁠🚀 Working on my project, RAGS CineMind.
+
+🛠️ Skills & Interests
+
+•⁠  ⁠Python
+•⁠  ⁠SQL
+•⁠  ⁠Artificial Intelligence
+•⁠  ⁠Machine Learning
+•⁠  ⁠Software Development
+•⁠  ⁠Data Analytics
+•⁠  ⁠Software Quality & Accessibility
+
+📌 Projects
+
+RAGS CineMind
+
+A movie recommendation project focused on personalized movie discovery.
+
+🤝 Connect With Me
+
+•⁠  ⁠"LinkedIn" https://www.linkedin.com/in/medikonda-raga-spandana-7380612b9?utm_source=share_via&utm_content=profile&utm_medium=member_android
